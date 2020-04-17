@@ -12,6 +12,12 @@ data visualization
  CRISTO
 ![my_image_1](shrek-the-sheep-65-670x442.jpg)
  > CRISTO CITAZIONE
+ ```
+ 
+import panda as pd
+ 
+
+```
  
  **MADONNA**
  
