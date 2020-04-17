@@ -10,7 +10,7 @@ data visualization
  * ELENCO PUNTATO
 #### HEADER
  CRISTO
-![my_image_1](shrek-the-sheep-65-670x442.jpg)
+![my_image_2](imagep.png)
  > CRISTO CITAZIONE
  ```
  
@@ -18,6 +18,6 @@ import panda as pd
  
 
 ```
- 
+ ![my_image](imagepie.png)
  **MADONNA**
  
