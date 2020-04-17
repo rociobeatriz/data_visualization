@@ -12,12 +12,15 @@ data visualization
  CRISTO
 ![my_image_2](imagep.png)
  > CRISTO CITAZIONE
+ 
+ 
  ```
  
 import panda as pd
  
 
 ```
+ 
  ![my_image](imagepie.png)
  **MADONNA**
  
