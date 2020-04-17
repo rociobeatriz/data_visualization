@@ -9,18 +9,13 @@ data visualization
  * GATTO
  * ELENCO PUNTATO
 #### HEADER
- CRISTO
+ Andamento
 ![my_image_2](imagep.png)
- > CRISTO CITAZIONE
  
+ > citazione
  
- ```
- 
-import panda as pd
- 
-
-```
+ ```import panda as pd```
  
  ![my_image](imagepie.png)
- **MADONNA**
+ **Grassetto**
  
