@@ -18,4 +18,4 @@ data visualization
  
  ![my_image](imagepie.png)
  **Grassetto**
- 
+ ![my_image_3](https://upload.wikimedia.org/wikipedia/it/thumb/a/ab/European_Mole_HD.JPG/1200px-European_Mole_HD.JPG) 
