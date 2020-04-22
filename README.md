@@ -3,7 +3,8 @@
 ## Hyperlink 
 
 1. Esempio Regressione Lineare Multipla 
-* Notebook end to end - con riduzione delle variabili [![Open In Colab](https://colab.research.google.com/github/rociobeatriz/notebooks/blob/master/Regressore_multiplo.ipynb)
+* Notebook end to end - con riduzione delle variabili [![Open In Colab(https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/rociobeatriz/notebooks/blob/master/Regressore_multiplo.ipynb)
 
 
 2. Introduzione a xxxxx 
